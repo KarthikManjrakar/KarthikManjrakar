@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikManjrakar
-- 👀 I’m interested in ... Selenium with Python
-- 🌱 I’m currently learning ... Selenium with Python
-- 💞️ I’m looking to collaborate on ... Selenium with Python
+- 👀 I’m interested in ... Selenium with Java/Python and Robot Framework
+- 🌱 I’m currently learning ... Selenium with Java/Python and Robot Framework
+- 💞️ I’m looking to collaborate on ... Selenium with Java/Python and Robot Framework
 - 📫 How to reach me ... manjrekarkarthik@gmail.com
 
 <!---
